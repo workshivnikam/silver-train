@@ -71,6 +71,7 @@ cd shopease
 <h3>2. Install Dependencies</h3>
 
 <strong>Frontend</strong>
+
 <pre>
 <code>
 cd client
@@ -79,6 +80,7 @@ npm install
 </pre>
 
 <strong>Backend</strong>
+
 <pre>
 <code>
 cd server
@@ -99,6 +101,7 @@ STRIPE_SECRET_KEY=&lt;your-stripe-secret-key&gt;
 <h3>4. Start the Development Server</h3>
 
 <strong>Backend:</strong>
+
 <pre>
 <code>
 cd server
@@ -107,6 +110,7 @@ npm run dev
 </pre>
 
 <strong>Frontend:</strong>
+
 <pre>
 <code>
 cd client
@@ -162,7 +166,6 @@ npm start
 <p>
     This project is licensed under the <strong>MIT License</strong>.
 </p>
-
 <hr>
 
 <p><strong>⭐ If you like this project, give it a star! 🌟</strong></p>
