@@ -1,4 +1,4 @@
-<h1>🛒 ShopEase - Full-Stack E-Commerce Website</h1>
+<h1>🛒 ShopEase - Full-Stack E-Commerce Website !</h1>
 
 <p>
     ShopEase is a fully functional e-commerce platform built with the <strong>MERN stack</strong> (MongoDB, Express, React, Node.js). 
