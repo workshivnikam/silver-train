@@ -63,7 +63,7 @@
 <h3>1. Clone the Repository</h3>
 <pre>
 <code>
-git clone https://github.com/adarshupadhyay21/shopease.git
+git clone https://github.com/workshivnikam/silver-train.git
 cd shopease
 </code>
 </pre>
@@ -130,19 +130,19 @@ npm start
 
 <hr>
 
-<h2>📸 Screenshots</h2>
+<!-- <h2>📸 Screenshots</h2>
 <table>
     <tr>
         <th>Home Page</th>
         <th>Product Page</th>
         <th>Admin Panel</th>
     </tr>
-    <tr>
+    <!-- <tr>
         <td><img src="./screenshots/home.png" alt="Home" width="300"></td>
         <td><img src="./screenshots/product.png" alt="Product" width="300"></td>
         <td><img src="./screenshots/admin.png" alt="Admin" width="300"></td>
-    </tr>
-</table>
+    </tr> -->
+<!-- </table> --> -->
 
 <hr>
 
